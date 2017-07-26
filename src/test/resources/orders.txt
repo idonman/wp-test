@@ -1,0 +1,3 @@
+TC1	b	A	1	2
+TC2	s	B	3	4
+TC3	s	C	5	6
